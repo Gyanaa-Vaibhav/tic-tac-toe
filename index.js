@@ -113,7 +113,7 @@ const x = setInterval(() => {
             }
         }, 100)
     }
-},1000)
+},500)
 
 
 gameBox.addEventListener('click', (event) => {
